@@ -1,0 +1,9 @@
+Package: com.starymz.awemeusercrawler
+Name: awemeusercrawler
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: starymz
+Author: starymz
+Section: Tweaks
